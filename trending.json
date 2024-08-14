@@ -1,0 +1,180 @@
+{
+    "results": [
+        {
+            "authors": "...",
+            "book_content": "\ud83d\udcd5 Book (fiction)",
+            "book_filetype": ".epub",
+            "book_image": "https://backend.bookracy.org/cover/65193acaa359d01f26e3c06c20d18fbe/thumbnail.jpg",
+            "book_lang": "English [en]",
+            "book_size": "0.3MB",
+            "book_source": "\ud83d\ude80/lgli/lgrs/zlib",
+            "custom_subtitle": "... | English [en] | .epub | \ud83d\ude80/lgli/lgrs/zlib | 0.3MB | \ud83d\udcd5 Book (fiction)",
+            "link": "https://backend.bookracy.org/download/65193acaa359d01f26e3c06c20d18fbe/Zero%20Option.epub",
+            "md5": "65193acaa359d01f26e3c06c20d18fbe",
+            "publication": [
+                "\n\n\n"
+            ],
+            "title": "Zero Option"
+        },
+        {
+            "authors": "...",
+            "book_content": "\ud83d\udcd5 Book (fiction)",
+            "book_filetype": ".epub",
+            "book_image": "https://backend.bookracy.org/cover/ab0b9882e025a57d2dcbd11ea1ee2cc9/thumbnail.jpg",
+            "book_lang": "English [en]",
+            "book_size": "0.5MB",
+            "book_source": "\ud83d\ude80/lgli/lgrs/zlib",
+            "custom_subtitle": "... | English [en] | .epub | \ud83d\ude80/lgli/lgrs/zlib | 0.5MB | \ud83d\udcd5 Book (fiction)",
+            "link": "https://backend.bookracy.org/download/ab0b9882e025a57d2dcbd11ea1ee2cc9/Osama.epub",
+            "md5": "ab0b9882e025a57d2dcbd11ea1ee2cc9",
+            "publication": [
+                "\n\n\n"
+            ],
+            "title": "Osama"
+        },
+        {
+            "authors": "...",
+            "book_content": "\ud83d\udcd5 Book (fiction)",
+            "book_filetype": ".mobi",
+            "book_image": "https://backend.bookracy.org/cover/a9493e8ecf77feeb0373adc5d97a7967/thumbnail.jpg",
+            "book_lang": "English [en]",
+            "book_size": "0.5MB",
+            "book_source": "\ud83d\ude80/lgli/lgrs/zlib",
+            "custom_subtitle": "... | English [en] | .mobi | \ud83d\ude80/lgli/lgrs/zlib | 0.5MB | \ud83d\udcd5 Book (fiction)",
+            "link": "https://backend.bookracy.org/download/a9493e8ecf77feeb0373adc5d97a7967/Firefight.mobi",
+            "md5": "a9493e8ecf77feeb0373adc5d97a7967",
+            "publication": [
+                "\n\n\n"
+            ],
+            "title": "Firefight"
+        },
+        {
+            "authors": "...",
+            "book_content": "\ud83d\udcd5 Book (fiction)",
+            "book_filetype": ".epub",
+            "book_image": "https://backend.bookracy.org/cover/52952f950f6c3ef9a09559613b6ae9a7/thumbnail.jpg",
+            "book_lang": "English [en]",
+            "book_size": "1.3MB",
+            "book_source": "\ud83d\ude80/lgli/zlib",
+            "custom_subtitle": "... | English [en] | .epub | \ud83d\ude80/lgli/zlib | 1.3MB | \ud83d\udcd5 Book (fiction)",
+            "link": "https://backend.bookracy.org/download/52952f950f6c3ef9a09559613b6ae9a7/Manhunter.epub",
+            "md5": "52952f950f6c3ef9a09559613b6ae9a7",
+            "publication": [
+                "\n\n\n"
+            ],
+            "title": "Manhunter"
+        },
+        {
+            "authors": "...",
+            "book_content": "\ud83d\udcd5 Book (fiction)",
+            "book_filetype": ".pdf",
+            "book_image": "https://backend.bookracy.org/cover/007ba56ac73b50397489ee4a3de1b1c7/thumbnail.jpg",
+            "book_lang": "English [en]",
+            "book_size": "2.6MB",
+            "book_source": "\ud83d\ude80/lgli/zlib",
+            "custom_subtitle": "... | English [en] | .pdf | \ud83d\ude80/lgli/zlib | 2.6MB | \ud83d\udcd5 Book (fiction)",
+            "link": "https://backend.bookracy.org/download/007ba56ac73b50397489ee4a3de1b1c7/Manhunter.pdf",
+            "md5": "007ba56ac73b50397489ee4a3de1b1c7",
+            "publication": [
+                "\n\n\n"
+            ],
+            "title": "Manhunter"
+        },
+        {
+            "authors": "...",
+            "book_content": "\ud83d\udcd5 Book (fiction)",
+            "book_filetype": ".mobi",
+            "book_image": "https://backend.bookracy.org/cover/41f8fe8d478aa577d6c23a007094621e/thumbnail.jpg",
+            "book_lang": "English [en]",
+            "book_size": "0.4MB",
+            "book_source": "\ud83d\ude80/lgli/lgrs/zlib",
+            "custom_subtitle": "... | English [en] | .mobi | \ud83d\ude80/lgli/lgrs/zlib | 0.4MB | \ud83d\udcd5 Book (fiction)",
+            "link": "https://backend.bookracy.org/download/41f8fe8d478aa577d6c23a007094621e/Blackout.mobi",
+            "md5": "41f8fe8d478aa577d6c23a007094621e",
+            "publication": [
+                "\n\n\n"
+            ],
+            "title": "Blackout"
+        },
+        {
+            "authors": "...",
+            "book_content": "\ud83d\udcd5 Book (fiction)",
+            "book_filetype": ".mobi",
+            "book_image": "https://backend.bookracy.org/cover/2d8007c88fcf44061bdfb930a99ceeb2/thumbnail.jpg",
+            "book_lang": "English [en]",
+            "book_size": "0.2MB",
+            "book_source": "\ud83d\ude80/lgli/lgrs/zlib",
+            "custom_subtitle": "... | English [en] | .mobi | \ud83d\ude80/lgli/lgrs/zlib | 0.2MB | \ud83d\udcd5 Book (fiction)",
+            "link": "https://backend.bookracy.org/download/2d8007c88fcf44061bdfb930a99ceeb2/One%20Good%20Turn.mobi",
+            "md5": "2d8007c88fcf44061bdfb930a99ceeb2",
+            "publication": [
+                "\n\n\n"
+            ],
+            "title": "One Good Turn"
+        },
+        {
+            "authors": "...",
+            "book_content": "\ud83d\udcd5 Book (fiction)",
+            "book_filetype": ".mobi",
+            "book_image": "https://backend.bookracy.org/cover/15f7b625a4d269e7cc5ddd196d29296d/thumbnail.jpg",
+            "book_lang": "English [en]",
+            "book_size": "0.5MB",
+            "book_source": "\ud83d\ude80/lgli/lgrs/zlib",
+            "custom_subtitle": "... | English [en] | .mobi | \ud83d\ude80/lgli/lgrs/zlib | 0.5MB | \ud83d\udcd5 Book (fiction)",
+            "link": "https://backend.bookracy.org/download/15f7b625a4d269e7cc5ddd196d29296d/The%20Increment.mobi",
+            "md5": "15f7b625a4d269e7cc5ddd196d29296d",
+            "publication": [
+                "\n\n\n"
+            ],
+            "title": "The Increment"
+        },
+        {
+            "authors": "...",
+            "book_content": "\ud83d\udcd5 Book (fiction)",
+            "book_filetype": ".epub",
+            "book_image": "https://backend.bookracy.org/cover/8bbe0c9fbef31e945c864c18884ba669/thumbnail.jpg",
+            "book_lang": "English [en]",
+            "book_size": "0.2MB",
+            "book_source": "\ud83d\ude80/lgli/zlib",
+            "custom_subtitle": "... | English [en] | .epub | \ud83d\ude80/lgli/zlib | 0.2MB | \ud83d\udcd5 Book (fiction)",
+            "link": "https://backend.bookracy.org/download/8bbe0c9fbef31e945c864c18884ba669/Die%20Trying:%20Chris%20Ryan%20Extreme:%20Hard%20Target.epub",
+            "md5": "8bbe0c9fbef31e945c864c18884ba669",
+            "publication": [
+                "\n\n\n"
+            ],
+            "title": "Die Trying: Chris Ryan Extreme: Hard Target"
+        },
+        {
+            "authors": "...",
+            "book_content": "\ud83d\udcd5 Book (fiction)",
+            "book_filetype": ".mobi",
+            "book_image": "https://backend.bookracy.org/cover/d4618863fc6bcdad88da965b2d8e67a3/thumbnail.jpg",
+            "book_lang": "English [en]",
+            "book_size": "0.7MB",
+            "book_source": "\ud83d\ude80/lgli/lgrs/zlib",
+            "custom_subtitle": "... | English [en] | .mobi | \ud83d\ude80/lgli/lgrs/zlib | 0.7MB | \ud83d\udcd5 Book (fiction)",
+            "link": "https://backend.bookracy.org/download/d4618863fc6bcdad88da965b2d8e67a3/Osama.mobi",
+            "md5": "d4618863fc6bcdad88da965b2d8e67a3",
+            "publication": [
+                "\n\n\n"
+            ],
+            "title": "Osama"
+        },
+        {
+            "authors": "...",
+            "book_content": "\ud83d\udcd5 Book (fiction)",
+            "book_filetype": ".mobi",
+            "book_image": "https://backend.bookracy.org/cover/0a1120d83368cb0a1c93b368a553cd14/thumbnail.jpg",
+            "book_lang": "English [en]",
+            "book_size": "0.4MB",
+            "book_source": "\ud83d\ude80/lgli/lgrs/zlib",
+            "custom_subtitle": "... | English [en] | .mobi | \ud83d\ude80/lgli/lgrs/zlib | 0.4MB | \ud83d\udcd5 Book (fiction)",
+            "link": "https://backend.bookracy.org/download/0a1120d83368cb0a1c93b368a553cd14/Chris%20Ryan%20Collection%20Pack%20Fire%20Fight,.mobi",
+            "md5": "0a1120d83368cb0a1c93b368a553cd14",
+            "publication": [
+                "\n\n\n"
+            ],
+            "title": "Chris Ryan Collection Pack Fire Fight,"
+        }
+    ]
+}
